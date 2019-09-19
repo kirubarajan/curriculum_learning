@@ -2,5 +2,5 @@
 ## Table of Contents
 - Gradient Descent and Optimization
 - Curriculum Learning Overview
-- Intuition
+- Intuition 
 - Related Work
