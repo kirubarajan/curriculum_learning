@@ -4,6 +4,16 @@ The core of Curriculum Learning (as it relates to this research project) can be 
 ## Curriculum Learning 
 > [Bengio et al.] ICML 2009
 
+### Overview 
+- Optimization heuristic for non-convex training criteria
+- Key Intuition: humans learn better when examples are presented in a meaningful order
+- Hypothesis: training convergence can be achieved faster
+
+### Details
+- Experiments on shape recognition and language modelling
+- Language model curriculum implemented by increasing vocabulary via word frequency
+- Statistically significant improvements over random training sampling
+
 ## Automated Curriculum Learning for Neural Networks 
 > [Graves et al.] ICML 2017
 
