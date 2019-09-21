@@ -12,7 +12,7 @@ These notes are limited to curriculums consisting of natural language tasks:
 - Sentence complexity
 - Attention scores
 
-Competence can be used as a function of current loss, and current curriculum state (e.g. number of iterations etc). Considerations to make are regarding exploration/exploitation tradeoff between re-learning important samples and experimenting to discover other potentially impactful data.
+Competence can be used as a function of current loss, and current curriculum state (e.g. number of iterations etc). Considerations to be made are regarding exploration/exploitation tradeoff between re-learning important samples and experimenting to discover other potentially impactful data.
 
 ## Implementation
 All models are implemented using PyTorch:
