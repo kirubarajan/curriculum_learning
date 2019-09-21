@@ -21,4 +21,4 @@ All models are implemented using PyTorch:
 - Language modelling (with Transformer)
 
 ## Transfer Learning
-- Learning a curriculum from another model's latent information about input text "difficulty"
+- Learning a curriculum from another language  model's latent information about input text "difficulty"
